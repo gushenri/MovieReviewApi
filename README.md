@@ -14,7 +14,4 @@ Site simples para listar filmes populares e pesquisar filmes usando a API do The
 - JavaScript (Fetch API)
 - TMDB API
 
-## ▶️ Como executar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPO.git
+
